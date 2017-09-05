@@ -1,0 +1,10 @@
+Second Day - Spring
+
+Data Access Objects
+1. Connected directly through JDBC and template
+2. Using the Doa implementation using Service call the DOA object and work
+
+Local Transaction
+Which are locally Transaction Maintained. 
+
+XA Distributed Transcation Management 
